@@ -1,6 +1,6 @@
 /*Create an abstract class shape. Derive three specific classes called triangle, rectangle, and circle. Using
 these four classes, design a program that will accept dimensions of a triangle, rectangle, or circle
-interactively, and display the area.( and algorithm and flowchart according to the code, simple code no high tech)*/
+interactively, and display the area.*/
 #include <iostream>
 using namespace std;
 
