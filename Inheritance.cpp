@@ -1,4 +1,4 @@
-/*Define inheritance. Write a program to create a base class named “circle”. Derive another class
+/* Write a program to create a base class named “circle”. Derive another class
 “cylinder” from it. The program should calculate the total surface area of the circle and cylinder using the
 concept of inheritance. The circle should have data fields i.e. radius, area and method getRadius ( ) should
 take the value of radius from the user. The cylinder should have an additional data field i.e. height and
